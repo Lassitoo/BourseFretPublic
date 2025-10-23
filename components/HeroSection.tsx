@@ -9,27 +9,19 @@ export default function HeroSection() {
       <div className="relative mx-auto max-w-7xl">
         <div className="text-center">
           <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl md:text-6xl">
-            Transporteurs
+            Bourse Fret Public
           </h1>
           <p className="mt-6 text-xl text-white/90 max-w-3xl mx-auto">
             Trouvez votre prochain chargement en quelques clics
           </p>
 
-          <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
-            <Button
-              size="lg"
-              className="bg-black hover:bg-gray-900 text-white px-6 py-6 text-base"
-            >
-              <Apple className="mr-2 h-5 w-5" />
-              Télécharger sur App Store
-            </Button>
-            <Button
-              size="lg"
-              className="bg-white hover:bg-gray-100 text-gray-900 px-6 py-6 text-base"
-            >
-              <Smartphone className="mr-2 h-5 w-5" />
-              Disponible sur Google Play
-            </Button>
+          <div className="mt-10">
+            <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-white tracking-tight">
+              Le Futur du Transport Routier
+            </h2>
+            <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-white mt-2 tracking-tight">
+              commence ici
+            </h2>
           </div>
         </div>
       </div>
