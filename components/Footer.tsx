@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="text-xl font-bold text-[#00A6B8] mb-4">
-              Cloudfret
+              BFP
             </h3>
             <p className="text-gray-400 text-sm leading-relaxed">
               La plateforme de référence pour connecter expéditeurs et
@@ -110,7 +110,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2025 Cloudfret. Tous droits réservés.
+              © 2025 BFP. Tous droits réservés.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link

@@ -14,9 +14,9 @@ import {
 } from "lucide-react";
 
 export const metadata = {
-  title: "Cloudfret | Pour les transporteurs",
+  title: "BFP | Pour les transporteurs",
   description:
-    "Remplissez mieux vos camions, réduisez les kilomètres à vide et trouvez des chargements fiables avec Cloudfret.",
+    "Remplissez mieux vos camions, réduisez les kilomètres à vide et trouvez des chargements fiables avec BFP.",
 };
 
 export default function TransportersPage() {
@@ -107,7 +107,7 @@ export default function TransportersPage() {
         <section id="features" className="py-16 md:py-24">
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 text-center">
-              Pourquoi les transporteurs choisissent Cloudfret
+              Pourquoi les transporteurs choisissent BFP
             </h2>
             <p className="mt-3 text-gray-600 text-center max-w-2xl mx-auto">
               Des fonctionnalités conçues pour développer votre activité et simplifier votre quotidien.
@@ -167,7 +167,7 @@ export default function TransportersPage() {
         <section id="inscription" className="py-16 md:py-20">
           <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
             <div className="rounded-2xl bg-[#00A6B8] text-white p-8 md:p-12 text-center">
-              <h3 className="text-2xl md:text-3xl font-bold">Prêt à prendre la route avec Cloudfret ?</h3>
+              <h3 className="text-2xl md:text-3xl font-bold">Prêt à prendre la route avec BFP ?</h3>
               <p className="mt-2 text-white/90">
                 Créez votre compte transporteur et commencez à recevoir des demandes adaptées à vos trajets.
               </p>

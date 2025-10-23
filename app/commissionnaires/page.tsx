@@ -15,9 +15,9 @@ import {
 } from "lucide-react";
 
 export const metadata = {
-  title: "Cloudfret | Pour les commissionnaires",
+  title: "BFP | Pour les commissionnaires",
   description:
-    "Développez votre activité de commissionnaire: trouvez des capacités fiables, digitalisez vos opérations et améliorez vos marges avec Cloudfret.",
+    "Développez votre activité de commissionnaire: trouvez des capacités fiables, digitalisez vos opérations et améliorez vos marges avec BFP.",
 };
 
 export default function CommissionnairesPage() {
@@ -35,7 +35,7 @@ export default function CommissionnairesPage() {
                 Gagnez en visibilité, fiabilité et marge sur chaque transport
               </h1>
               <p className="mt-4 text-base md:text-lg text-gray-600">
-                Accédez instantanément à des transporteurs vérifiés, digitalisez vos opérations et suivez vos dossiers en temps réel. Cloudfret est votre allié pour une croissance maîtrisée.
+                Accédez instantanément à des transporteurs vérifiés, digitalisez vos opérations et suivez vos dossiers en temps réel. BFP est votre allié pour une croissance maîtrisée.
               </p>
               <div className="mt-6 flex flex-col sm:flex-row gap-3">
                 <Link
@@ -108,7 +108,7 @@ export default function CommissionnairesPage() {
         <section id="features" className="py-16 md:py-24">
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 text-center">
-              Pourquoi les commissionnaires choisissent Cloudfret
+              Pourquoi les commissionnaires choisissent BFP
             </h2>
             <p className="mt-3 text-gray-600 text-center max-w-2xl mx-auto">
               Gagnez en fiabilité, accédez à plus de capacités et digitalisez votre cycle de transport pour améliorer votre marge et la satisfaction client.
@@ -170,7 +170,7 @@ export default function CommissionnairesPage() {
             <div className="rounded-2xl bg-[#00A6B8] text-white p-8 md:p-12 text-center">
               <h3 className="text-2xl md:text-3xl font-bold">Prêt à développer votre activité ?</h3>
               <p className="mt-2 text-white/90">
-                Créez votre compte commissionnaire et accédez immédiatement au réseau Cloudfret.
+                Créez votre compte commissionnaire et accédez immédiatement au réseau BFP.
               </p>
               <div className="mt-6">
                 <Link

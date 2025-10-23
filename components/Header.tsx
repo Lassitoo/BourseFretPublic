@@ -15,7 +15,7 @@ export default function Header() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-2">
               <div className="text-2xl font-bold text-[#00A6B8]">
-                Cloudfret
+                BFP
               </div>
             </Link>
           </div>

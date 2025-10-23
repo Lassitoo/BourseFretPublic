@@ -3,9 +3,9 @@ import Link from "next/link";
 import { CheckCircle2, ShieldCheck, Timer, Truck, Wallet, Headphones, ArrowRight, BarChart3, Globe2 } from "lucide-react";
 
 export const metadata = {
-  title: "Cloudfret | Pour les expéditeurs",
+  title: "BFP | Pour les expéditeurs",
   description:
-    "Optimisez vos expéditions: trouvez des camions disponibles, réduisez vos coûts et suivez vos envois en temps réel avec Cloudfret.",
+    "Optimisez vos expéditions: trouvez des camions disponibles, réduisez vos coûts et suivez vos envois en temps réel avec BFP.",
 };
 
 export default function ExpediteursPage() {
@@ -97,7 +97,7 @@ export default function ExpediteursPage() {
         <section id="features" className="py-16 md:py-24">
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 text-center">
-              Pourquoi les expéditeurs choisissent Cloudfret
+              Pourquoi les expéditeurs choisissent BFP
             </h2>
             <p className="mt-3 text-gray-600 text-center max-w-2xl mx-auto">
               Des fonctionnalités pensées pour vos besoins: fiabilité, économies et simplicité.
