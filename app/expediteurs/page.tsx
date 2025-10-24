@@ -192,7 +192,7 @@ function FeatureCard({
   desc: string;
 }) {
   return (
-    <div className="rounded-2xl border border-gray-100 p-6 shadow-sm hover:shadow-md transition-shadow bg-white">
+    <div className="rounded-2xl border border-gray-100 p-6 shadow-sm hover:shadow-md transition-shadow bg-white text-center flex flex-col items-center">
       <div className="flex items-center justify-center h-12 w-12 rounded-lg bg-[#00A6B8]/10">
         {icon}
       </div>
@@ -212,8 +212,8 @@ function StepCard({
   desc: string;
 }) {
   return (
-    <div className="rounded-2xl border border-gray-100 p-6 bg-white">
-      <div className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-[#00A6B8]/10 text-[#00A6B8] font-bold">
+    <div className="rounded-2xl border border-gray-100 p-6 bg-white text-center flex flex-col items-center">
+      <div className="flex h-8 w-8 items-center justify-center rounded-full bg-[#00A6B8]/10 text-[#00A6B8] font-bold">
         {step}
       </div>
       <h4 className="mt-3 text-lg font-semibold text-gray-900">{title}</h4>
